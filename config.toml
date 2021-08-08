@@ -10,7 +10,8 @@ theme = "hugo-hero-theme"
     min = "0.55.0"
     
 [params]
-  google_analytics_id="G-TWVKV5HKQV"
+  google_analytics_id="UA-203714790-1"
+
 
   [params.homepage_meta_tags]
     meta_description = "FinWhizz - One Stop Solution for all your Compliance"
