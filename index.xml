@@ -2,64 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on FinWhizz Consultancy</title>
-    <link>/</link>
+    <link>http://finwhizz.in/</link>
     <description>Recent content in Home on FinWhizz Consultancy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="http://finwhizz.in/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>http://finwhizz.in/about/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>http://finwhizz.in/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>History</title>
-      <link>/history/</link>
+      <link>http://finwhizz.in/history/</link>
       <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
       
-      <guid>/history/</guid>
+      <guid>http://finwhizz.in/history/</guid>
       <description>About Heading  Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
      We offer an unparalleled blend of expertise and local knowledge. Every client can benefit from the expertise of our most senior leaders.</description>
     </item>
     
     <item>
       <title>Accounting and Book-keeping</title>
-      <link>/services/accounting_and_book_keeping/</link>
+      <link>http://finwhizz.in/services/accounting_and_book_keeping/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>/services/accounting_and_book_keeping/</guid>
+      <guid>http://finwhizz.in/services/accounting_and_book_keeping/</guid>
       <description>Accounting &amp;amp; Book-keeping is probably the most traditional yet, the most essential for all sorts of organisations. Partnering with Finwhizz enables our clients to enjoy an end-to-end accounting service which is fully system integrated and as simple as sending an image over a whatsapp. This is to ensure that our clients focus entirely on what they do best and we take on the entire load of accounting function. We encourage regular accounting and whether our clients prefer a real-time book-keeping or weekly or monthly service model, we deliver.</description>
     </item>
     
     <item>
-      <title>Business Registration and Setup</title>
-      <link>/services/business-registration-and-setup/</link>
+      <title>Auditing &amp; Assurance</title>
+      <link>http://finwhizz.in/services/auditing_assurance/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>/services/business-registration-and-setup/</guid>
+      <guid>http://finwhizz.in/services/auditing_assurance/</guid>
+      <description>Through our proactive and innovative approach, we support our clients with insights on an ever-expanding range of services, including financial operations, accounting advice, risk assurance services, IPO advisory, actuarial services, internal audit, corporate and IFRS reporting, capital markets advisory, and more.</description>
+    </item>
+    
+    <item>
+      <title>Business Registration and Setup</title>
+      <link>http://finwhizz.in/services/business-registration-and-setup/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>http://finwhizz.in/services/business-registration-and-setup/</guid>
       <description>Ready! Set! ‘Wait…You need to register first’ says the Government. With Finwhizz you can hear the go and grow, as we ensure that all registrations are done to turn your dream into a fully functional business. Our timelines stick to those specified by the authorities and there will not be any lag other than those. Based on the nature of business and capital arranged, we advise on the type of setup required for the organisation.</description>
     </item>
     
     <item>
-      <title>Tax Filing and Advisory Services</title>
-      <link>/services/tax-filing-and-advisory-services/</link>
+      <title>Business Vitality</title>
+      <link>http://finwhizz.in/services/business_vitality/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>/services/tax-filing-and-advisory-services/</guid>
+      <guid>http://finwhizz.in/services/business_vitality/</guid>
+      <description>We define vitality as the capacity of a company to explore new options, renew its strategy, and grow sustainably. Preserving past advantages and position is not sufficient to thrive in today’s complex and dynamic business environment. In a fast-changing world, only the vital will survive.</description>
+    </item>
+    
+    <item>
+      <title>Corporate Law Services</title>
+      <link>http://finwhizz.in/services/corporate_law_services/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>http://finwhizz.in/services/corporate_law_services/</guid>
+      <description>We have a team of specialized Corporate lawyers to deal with all your Corporate cases. We advise and provide creative legal solutions for our Clients towards Incorporation of companies, Registration of Companies, Shares and debentures Issue of securities, Oppression and mismanagement, Merger and acquisitions, Winding up of companies and dissolution, Banking Laws, Matters relating to banker – customer relationship, Matters relating to deficiency of banking services and Cheque bouncing and matters related to negotiable instruments with our Expertise and Extensive Knowledge as per the Indian Legal System.</description>
+    </item>
+    
+    <item>
+      <title>Deeds, Documents and Settlements</title>
+      <link>http://finwhizz.in/services/deeds/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>http://finwhizz.in/services/deeds/</guid>
+      <description>We help you in preparation of documents that is required for deeds, legal documents and settlements.</description>
+    </item>
+    
+    <item>
+      <title>Get a Personal eCA</title>
+      <link>http://finwhizz.in/services/eca/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>http://finwhizz.in/services/eca/</guid>
+      <description>Get your personal eCA to do tax filing for you. And it is personal, convenient &amp;amp; fast with maximum refund calculated for you.</description>
+    </item>
+    
+    <item>
+      <title>Investment Advisory</title>
+      <link>http://finwhizz.in/services/investment_advisory/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>http://finwhizz.in/services/investment_advisory/</guid>
+      <description>We help you in Invest in Mutual Fund&amp;rsquo;s, stock market, government bonds etc which earn more returns and are tax exempted too.</description>
+    </item>
+    
+    <item>
+      <title>Project Reports for your Venture</title>
+      <link>http://finwhizz.in/services/project_reports/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>http://finwhizz.in/services/project_reports/</guid>
+      <description>A project report for new business conducts a profound road map for effectual business venture. It discusses whether the business requires finance or not, the challenging risks, several problems en route, etc. Hence it becomes vital for every new business to prepare a project report, to acquaint them on forewarning issues.</description>
+    </item>
+    
+    <item>
+      <title>Start-up Fund Raising</title>
+      <link>http://finwhizz.in/services/startup_funds/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>http://finwhizz.in/services/startup_funds/</guid>
+      <description>Fundraising is a process. Startups need to fund themselves through a series of investments or capital raisings. As the business grows, its capital requirements grow as well. Each round of funding serves as a stepping stone to the next round or stage of development. Depending on your industry, the time between each round can vary between six months to a year.</description>
+    </item>
+    
+    <item>
+      <title>Tax Filing and Advisory Services</title>
+      <link>http://finwhizz.in/services/tax-filing-and-advisory-services/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
+      
+      <guid>http://finwhizz.in/services/tax-filing-and-advisory-services/</guid>
       <description>Taxes are the integral part of any business organisation. Finwhizz offers you the best tax advisory services. We offer services related to taxes:
 1. GST monthly and annual filing 2. GST Input Credit MIS 3. Income Tax Filing and Advisory 4. Tax planning and saving 5. TDS advisory and quarterly filing  </description>
     </item>
     
     <item>
       <title>Virtual CFO for Startups</title>
-      <link>/services/virtual-cfo/</link>
+      <link>http://finwhizz.in/services/virtual-cfo/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
       
-      <guid>/services/virtual-cfo/</guid>
+      <guid>http://finwhizz.in/services/virtual-cfo/</guid>
       <description>We understand that the founders do not enjoy even a moment being deviated from bringing the next cutting-edge product/service. Time is everything for the start-up and the best way to make more of it is through outsourcing the entire finance compliance function to a CFO who does not come at a cost of hiring an individual CFO for the start-up. Instead of having an internal finance setup for the start-up and burning energy and other resources of the business, it is smart to outsource the function to Finwhizz.</description>
     </item>
     
